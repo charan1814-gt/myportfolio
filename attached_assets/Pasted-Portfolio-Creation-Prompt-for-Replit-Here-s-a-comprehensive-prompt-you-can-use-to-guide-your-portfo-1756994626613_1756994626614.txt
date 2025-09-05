@@ -1,0 +1,69 @@
+Portfolio Creation Prompt for Replit
+Here's a comprehensive prompt you can use to guide your portfolio creation on Replit:
+
+Main Portfolio Prompt
+"Create a professional web developer portfolio website using HTML, CSS, and JavaScript that showcases my skills, projects, and experience. The portfolio should include:
+
+Structure & Layout:
+
+Clean, modern, and responsive design that works on desktop, tablet, and mobile
+
+Navigation menu with smooth scrolling to different sections
+
+Professional color scheme with good contrast and accessibility
+
+Consistent typography and spacing throughout
+
+Essential Sections:
+
+Hero Section - Eye-catching introduction with your name, title, and brief tagline
+
+About Me - Personal background, skills, and what drives your passion for development
+
+Skills & Technologies - Visual representation of your technical skills (HTML, CSS, JavaScript, frameworks, tools)
+
+Projects Showcase - 3-6 key projects with descriptions, technologies used, live demo links, and GitHub repositories
+
+Experience/Education - Work history, internships, certifications, or relevant education
+
+Contact Section - Multiple ways to reach you (email, LinkedIn, GitHub, etc.)
+
+Technical Requirements:
+
+Semantic HTML5 structure
+
+CSS Grid and/or Flexbox for layouts
+
+CSS animations and transitions for interactivity
+
+JavaScript for dynamic elements (typing effect, project filtering, form validation)
+
+Optimized images and performance
+
+SEO-friendly meta tags and structure
+
+Interactive Features:
+
+Smooth scrolling navigation
+
+Project filtering or categorization
+
+Contact form with validation
+
+Dark/light mode toggle (optional)
+
+Loading animations and hover effects
+
+Content Guidelines:
+
+Professional headshot or avatar
+
+Compelling project descriptions that highlight problem-solving
+
+Quantifiable achievements where possible
+
+Links to live projects and source code
+
+Professional email and social media links
+
+Please provide the complete HTML, CSS, and JavaScript code with comments explaining key sections."
